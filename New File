@@ -1,0 +1,23 @@
+Steps for Creating Spotify Clone
+
+* Firebase - Create new project
+- npm install -g firebase-tools
+
+> Deploy to Firebase Hosting
+- firebase login
+- firebase init
+- firebase deploy
+
+Project Console: https://console.firebase.google.com/project/spotify-clone-999cd/overview
+Hosting URL: https://spotify-clone-999cd.web.app
+
+
+* Spotify - (https://developer.spotify.com/dashboard/applications/d150c4a33461402c8f32b17c9eefe2ad)
+- ClientID:  d150c4a33461402c8f32b17c9eefe2ad
+
+* Installed the following
+- npm i spotify-web-api-js
+
+* Material UI - (https://material-ui.com/)
+- npm install @material-ui/core
+- npm install @material-ui/icons
